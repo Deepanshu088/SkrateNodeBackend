@@ -28,6 +28,9 @@ This project is developed for Skrate NodeJs Backend Developer Test.
     
 ## Demo Video Url
     
+ 
+## Log File
+    Its upload with the code on github, in the main folder -- access.log
 
 ## Contact
     Email -- deepanshujain088@gmail.com
