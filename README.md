@@ -24,13 +24,16 @@ This project is developed for Skrate NodeJs Backend Developer Test.
 3. Setup env file using .env.example. Fill up credentials.
 
 ## Live Heroku Link
-    https://skrate-node-backend.herokuapp.com/
+    Link -- https://skrate-node-backend.herokuapp.com/
     
 ## Demo Video Url
-    
+    Link -- https://loom.com/share/53b2eec58c9d409faf94e72c67a86c7f
  
 ## Log File
     Its upload with the code on github, in the main folder -- access.log
+
+## Resume
+    Link -- https://drive.google.com/file/d/1HPKaD_JWcYwG6r7mgnWJ2gdNfVRughgN/view?usp=sharing
 
 ## Contact
     Email -- deepanshujain088@gmail.com
